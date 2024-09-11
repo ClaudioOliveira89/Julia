@@ -1,4 +1,5 @@
 ## Repository created for programming and development in the Julia language.
+![Julia](https://img.shields.io/badge/julia-9400d3?style=for-the-badge&logo=julia&logoColor=00fc00)
 
 This repository was built for the learning of the Julia language, the interest in this language lies in its high capacity for efficient data analysis and scientific computing. The goals are to explore fundamental language concepts, and tools like Pluto to process and extract valuable insights.
 
